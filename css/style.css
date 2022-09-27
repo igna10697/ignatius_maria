@@ -1,0 +1,23 @@
+
+
+#welcome-section{
+    padding: 10em;
+   height: max-content;
+   width: max-content;
+}
+body{
+    nav-down: auto;
+}
+
+@media (max-width: 600px) {
+    .facet_sidebar {
+      display: none;
+    }
+  }
+
+  #navbar{
+        
+      position: fixed;
+      background-color: blueviolet;   
+      align-items: center;   
+  }
